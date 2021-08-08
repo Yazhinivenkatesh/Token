@@ -1,3 +1,3 @@
 const display = async()=>{
-    console.log('HAI');
+    console.log('Hi');
 }
